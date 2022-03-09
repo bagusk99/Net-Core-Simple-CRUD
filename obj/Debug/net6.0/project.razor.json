@@ -16298,6 +16298,11 @@
   "RootNamespace": "FirstApp",
   "Documents": [
     {
+      "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Employee/Thanks.cshtml",
+      "TargetPath": "Views\\Employee\\Thanks.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16313,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Employee/Create.cshtml",
+      "TargetPath": "Views\\Employee\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16330,16 @@
     {
       "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Employee/Index.cshtml",
+      "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/mnt/c/Users/UKI-PC/Documents/office/FirstApp/Views/Employee/Update.cshtml",
+      "TargetPath": "Views\\Employee\\Update.cshtml",
       "FileKind": "mvc"
     },
     {
